@@ -2,7 +2,7 @@
 * `encrypter.py`: Script responsável por gerar uma chave, localizar arquivos em uma pasta alvo e criptografá-los.
 * `decrypter.py`: Script que utiliza a chave gerada para descriptografar os arquivos e restaurar o acesso original.
 
-## 🚀 Como Executar (Ambiente de Teste)
+## Como Executar
 1. Certifique-se de ter o Python instalado.
 2. Instale a biblioteca necessária:
    ```bash
@@ -12,7 +12,7 @@
 4. Execute o `encrypter.py` para simular o ataque.
 5. Execute o `decrypter.py` para simular a recuperação dos dados.
 
-## 🛡️ Como se Proteger?
+## Como se Proteger?
 Andei pesquisando sobre, percebi que existem mais defesas contra ataques de sequestro de dados, como:
 1. **Backups Regulares:** Manter cópias de segurança em locais offline ou na nuvem com versionamento.
 2. **Atualização de Sistemas:** Manter o SO e softwares atualizados para corrigir brechas de segurança.
